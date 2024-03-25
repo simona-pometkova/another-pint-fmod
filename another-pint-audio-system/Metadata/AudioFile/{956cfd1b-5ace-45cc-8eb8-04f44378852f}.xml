@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{956cfd1b-5ace-45cc-8eb8-04f44378852f}">
+		<property name="assetPath">
+			<value>Ambience/mixkit-meadow-birds-isolated-28.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>33.890612244897959</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

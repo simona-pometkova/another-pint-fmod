@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{93b5f598-ba4b-4f32-acd1-f6a162423c21}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.6158541666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

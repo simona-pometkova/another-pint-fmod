@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{48ae9105-f36f-492d-b778-4ebc34ba807f}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Tile/Footsteps_Tile_Walk.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

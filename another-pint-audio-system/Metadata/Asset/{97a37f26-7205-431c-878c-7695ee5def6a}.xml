@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{97a37f26-7205-431c-878c-7695ee5def6a}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Snow/Footsteps_Snow_Jump/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

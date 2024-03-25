@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{7a4c98a6-e3b3-4d01-82d7-cb5253b0ff91}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

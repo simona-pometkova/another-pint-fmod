@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{66317f6b-22d3-4973-97a9-187e90d5283b}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Jump.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

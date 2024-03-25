@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{51dac047-6e24-42ad-a9d2-d931c9234a46}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Grass/Foley_Grass.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

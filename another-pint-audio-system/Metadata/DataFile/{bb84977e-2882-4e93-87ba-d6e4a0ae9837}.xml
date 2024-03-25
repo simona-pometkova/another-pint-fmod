@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{bb84977e-2882-4e93-87ba-d6e4a0ae9837}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Mud/Footsteps_Mud_Run.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

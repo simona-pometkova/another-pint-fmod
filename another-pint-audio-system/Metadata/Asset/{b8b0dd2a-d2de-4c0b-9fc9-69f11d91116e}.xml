@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{b8b0dd2a-d2de-4c0b-9fc9-69f11d91116e}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Jump/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

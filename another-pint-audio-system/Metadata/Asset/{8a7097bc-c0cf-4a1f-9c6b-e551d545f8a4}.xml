@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{8a7097bc-c0cf-4a1f-9c6b-e551d545f8a4}">
+		<property name="assetPath">
+			<value>SFX/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85914e7c-d39d-497b-bfb8-24539c437bae}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{f8424119-5d96-46e7-9d10-5f31c839e624}">
+		<property name="name">
+			<value>CropSpecific</value>
+		</property>
+		<relationship name="folder">
+			<destination>{32f89e5e-a82e-41b7-a496-f62cbc56e1c7}</destination>
+		</relationship>
+	</object>
+</objects>
